@@ -3,7 +3,7 @@
 }
 
 .navbar {
-  background: rgb(20, 220, 190);
+  background: rgb(188, 51, 51);
   font-family: calibri;
   padding-right: 15px;
   padding-left: 15px;
@@ -39,6 +39,9 @@ button {
   border-radius: 10px;
   padding: 10px;
   width: 90px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
 }
 
 button a {
@@ -47,3 +50,8 @@ button a {
   font-size: 15px;
 }
 
+
+.img{
+  width: 100%;
+  height: fit-content;
+}
